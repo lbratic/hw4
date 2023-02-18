@@ -1,4 +1,4 @@
-  a.skip{
+a.skip{
   background: white;
   padding: 6px;
   -webkit-transition: top 1s ease-out;
@@ -102,9 +102,8 @@
   /* Requirement 11 code here -- Do not remove this comment. */
 
   a.skip:focus {
-  position: fixed;
+  position: relative;
   top: 20px;
-  left: 0px;
   text-decoration-line: overline;
   text-decoration-thickness: 10px;
   text-decoration-color: yellow;
