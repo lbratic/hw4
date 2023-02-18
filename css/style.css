@@ -131,6 +131,7 @@
   /* Requirement 15 code here -- Do not remove this comment. */
   img {
     max-height: 100%;
+    overflow: hidden;
   }
 
 }
