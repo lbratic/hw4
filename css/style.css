@@ -60,19 +60,19 @@ img {
   /* Requirement 8 code here -- Do not remove this comment. */
 
 .about, .about-image {
-  grid-row: 1;
+  grid-row: 1 / 2;
 }
 
 .clients, .clients-image {
-  grid-row: 2;
+  grid-row: 2 / 3;
 }
 
 .method, .method-image {
-  grid-row: 3;
+  grid-row: 3 / 4;
 }
 
 .contact, .contact-image {
-  grid-row: 4;
+  grid-row: 4 / 5;
 }
 
   /* Requirement 9 code here -- Do not remove this comment. */
