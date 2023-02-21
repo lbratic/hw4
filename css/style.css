@@ -130,11 +130,15 @@ a.skip{
   }
 
   /* Requirement 15 code here -- Do not remove this comment. */
-  img {
+  .about-image, .clients-image, .method-image, .contact-image {
+    overflow: hidden;
+  }
+
+  /* img {
     max-height: 100%;
     max-width: 100%;
     overflow: hidden;
-  }
+  } */
 
 }
 
